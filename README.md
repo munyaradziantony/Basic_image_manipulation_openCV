@@ -6,7 +6,7 @@
 
 In the command window or the terminal, 
 
-1. 0pen `hw1.ipynb` using Juptyer Notebook and complete the work.
+1. 0pen `Code.ipynb` using Juptyer Notebook and complete the work.
 
 2. Once your work is done, there will be two new files, namely `prob1.png` and `prob2.png`. .
 
